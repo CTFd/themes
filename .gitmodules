@@ -1,0 +1,3 @@
+[submodule "UnitedStates"]
+	path = UnitedStates
+	url = git@github.com:ColdHeat/UnitedStates.git
