@@ -1,6 +1,6 @@
 # CTFd Theme Repository
 
-This repository gathers CTFd themes from around the internet (both official themes and community provided themes). 
+This repository gathers open source CTFd themes from around the internet. Official premium themes can be found on the [CTFd Store](https://ctfd.io/store). 
 
 Each theme provided here is stored as a gitsubmodule to the theme's project repository. 
 
