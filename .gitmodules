@@ -1,3 +1,6 @@
 [submodule "UnitedStates"]
 	path = UnitedStates
 	url = git@github.com:ColdHeat/UnitedStates.git
+[submodule "pixo"]
+	path = pixo
+	url = git@github.com:hmrserver/CTFd-theme-pixo.git
