@@ -4,3 +4,30 @@
 [submodule "pixo"]
 	path = pixo
 	url = git@github.com:hmrserver/CTFd-theme-pixo.git
+[submodule "ctfd-neon-theme"]
+	path = ctfd-neon-theme
+	url = git@github.com:chainflag/ctfd-neon-theme.git
+[submodule "apt42_ctfd_themes"]
+	path = apt42_ctfd_themes
+	url = git@github.com:apt-42/apt42_ctfd_themes.git
+[submodule "ctfd-theme-tsgctf"]
+	path = ctfd-theme-tsgctf
+	url = git@github.com:tsg-ut/ctfd-theme-tsgctf.git
+[submodule "CTFd-Dark-Theme"]
+	path = CTFd-Dark-Theme
+	url = git@github.com:Milkdrop/CTFd-Dark-Theme.git
+[submodule "ctfd-r2con-themes"]
+	path = ctfd-r2con-themes
+	url = git@github.com:as0ler/ctfd-r2con-themes.git
+[submodule "CTFD-odin-theme"]
+	path = CTFD-odin-theme
+	url = git@github.com:0xdevsachin/CTFD-odin-theme.git
+[submodule "CTFD-crimson-theme"]
+	path = CTFD-crimson-theme
+	url = git@github.com:0xdevsachin/CTFD-crimson-theme.git
+[submodule "CTFd-xmas-theme"]
+	path = CTFd-xmas-theme
+	url = git@github.com:iver-ics/CTFd-xmas-theme.git
+[submodule "nullify-ctfd-theme"]
+	path = nullify-ctfd-theme
+	url = git@github.com:AaronVigal/nullify-ctfd-theme.git
